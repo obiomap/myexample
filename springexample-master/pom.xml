@@ -27,7 +27,7 @@
     <repository>
       <id>capacity-release</id>
       <name>capacity-release</name>
-      <url>http://3.87.18.207:8081/nexus/content/repositories/maven-snapshots</url>
+      <url>http://3.87.18.207:8081/repository/maven-snapshots</url>
     </repository>
     <snapshotRepository>
       <id>capacitybay</id>
