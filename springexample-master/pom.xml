@@ -27,12 +27,12 @@
     <repository>
       <id>capacity-release</id>
       <name>capacity-release</name>
-      <url>http://3.87.18.207:8081/repository/maven-releases/</url>
+      <url>http://3.87.18.207:8081/nexus/content/repositories/maven-releases</url>
     </repository>
     <snapshotRepository>
       <id>capacitybay</id>
       <name>capacity-snapshot</name>
-      <url>http://3.87.18.207:8081/repository/maven-snapshots/</url>
+      <url>http://3.87.18.207:8081/nexus/content/repositories/maven-snapshots</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
