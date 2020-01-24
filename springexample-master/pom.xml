@@ -30,7 +30,7 @@
       <url>http://3.87.18.207:8081/nexus/content/repositories/maven-snapshots</url>
     </repository>
     <snapshotRepository>
-      <id>capacitybay</id>
+      <id>capacity-snapshot</id>
       <name>capacity-snapshot</name>
       <url>http://3.87.18.207:8081/nexus/content/repositories/maven-releases</url>
     </snapshotRepository>
