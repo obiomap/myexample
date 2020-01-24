@@ -27,12 +27,12 @@
     <repository>
       <id>capacity-release</id>
       <name>capacity-release</name>
-      <url>http://ec2-18-222-46-98.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/capacitybay-release</url>
+      <url>http://3.87.18.207:8081/repository/maven-releases</url>
     </repository>
     <snapshotRepository>
       <id>capacitybay</id>
       <name>capacity-snapshot</name>
-      <url>http://ec2-18-222-46-98.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/capacitybay</url>
+      <url>http://3.87.18.207:8081/repository/maven-snapshots</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
